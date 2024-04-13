@@ -10,5 +10,4 @@ O sistema Analyze sentiment and opinions da Azure recebe cada opiniao, processa 
 
 ## Resultados
 ### Primeira opiniao
-[![Resultado 1](Resultado )](https://github.com/tarcisiofj/dio-lab-analise-sentimentos/blob/main/img/resultado1.png "Resultado 1") 
-
+![Resultado 01](img/resultado1.png)
