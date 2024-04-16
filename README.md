@@ -11,6 +11,12 @@ O sistema Analyze sentiment and opinions da Azure recebe cada opiniao, processa 
 ## Resultados
 ### Primeira opiniao
 ![Resultado 01](img/resultado1.png)
+
+### Segunda opiniao
 ![Resultado 02](img/resultado2.png)
+
+### Terceira opiniao
 ![Resultado 03](img/resultado3.png)
+
+### Quarta opiniao
 ![Resultado 04](img/resultado4.png)
